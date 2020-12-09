@@ -23,7 +23,7 @@ body {
 
 .container .card {
     position: absolute;
-    top: 50% - 200px; /* height / 2 = 200px */
+    top: 50% - 200px;
     left: 50%;
     display: flex;
     justify-content: center;
